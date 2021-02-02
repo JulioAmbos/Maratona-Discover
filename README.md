@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="assets/logo.svg" width="220px" />
+  <img alt="maratona-discover" title="dev.finances" src="assets/maratona-discover.png" width="300px" />
 </h1>
 
 <p align="center">
