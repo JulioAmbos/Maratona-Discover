@@ -36,7 +36,7 @@ Aplicação de controle financeiro, desenvolvida na Maratona Discover, uma reali
 
 Funcionalidades:
 
-É possível cadastrar e excluir transações, visualizar total das entradas e saídas, bem como o saldo disponível.
+É possível cadastrar e excluir transações, visualizar os totais das entradas e saídas, bem como o saldo disponível.
 
 ##  Layout
 
