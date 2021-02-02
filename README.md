@@ -32,11 +32,11 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ##  Projeto
 
-Aplicação de controle financeiro, desenvolvida na Maratona Discover, uma realização da Rocketseat (Prof. Maiky Brito).
+Aplicação de controle financeiro, desenvolvida na Maratona Discover, uma realização da Rocketseat (Prof. Mayk Brito).
 
 Funcionalidades:
 
-É possível cadastrar e excluir transações e ver o saldo de entrada e saída.
+É possível cadastrar e excluir transações, visualizar total das entradas e saídas, bem como o saldo disponível.
 
 ##  Layout
 
