@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="assets/devfinances.png" width="100%">
+  <img alt="dev.finances"  src="assets/devfinances.png" width="100%">
   
 </p>
 
@@ -37,6 +37,10 @@ Aplicação de controle financeiro, desenvolvida na Maratona Discover, uma reali
 Funcionalidades:
 
 É possível cadastrar e excluir transações, visualizar os totais das entradas e saídas, bem como o saldo disponível.
+
+Para visualizar e testar online: https://julioambos.github.io/maratona-discover/
+
+
 
 ##  Layout
 
