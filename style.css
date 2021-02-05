@@ -100,6 +100,14 @@ button:hover{
     opacity: 1;	
 }
 
+.ExportToExcel{
+    justify-content: right; 
+   display: flex;
+
+
+
+}
+
 /* Header =====================*/
 header {
    background: #2D4A22 ;
