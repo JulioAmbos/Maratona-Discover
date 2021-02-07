@@ -40,7 +40,7 @@ Funcionalidades:
 
 ##  Minhas Personalizações
 
-Acrescentei dois botões, uma para nova transação e outro para gerar exportação do extrato para planilha. 
+Acrescentei dois botões, um para nova transação e outro para gerar exportação do extrato para planilha. 
 Criei função retira acentos, pois ao exportar para planilha, estava dando problema nas palavras com acento.
 ## Para visualizar e testar online: https://julioambos.github.io/maratona-discover/
 
