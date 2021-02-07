@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances"  src="assets/devfinances.png" width="100%">
+  <img alt="dev.finances"  src="assets/finances.png" width="100%">
   
 </p>
 
