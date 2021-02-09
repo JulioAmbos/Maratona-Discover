@@ -49,7 +49,9 @@ Criei função retira acentos, pois ao exportar para planilha, estava dando prob
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## Agradecimentos
 
-Esse projeto está sob a licença MIT. 
+A dedicação do professor Mayk Brito. Muito obrigado Professor! 
+
+## :memo: 
 
