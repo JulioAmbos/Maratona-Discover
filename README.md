@@ -53,5 +53,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 A dedicação do professor Mayk Brito. Muito obrigado Professor! 
 
-## :memo: 
-
