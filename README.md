@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-finalidade">Rinalidade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -29,6 +30,10 @@ Projeto desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+
+## Finalidade
+
+Estudo e aplicação de novas técnicas.
 
 ##  Projeto
 
